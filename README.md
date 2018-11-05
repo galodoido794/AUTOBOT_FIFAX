@@ -19,8 +19,8 @@ Once installed, restart your computer
 * Stop after buying
 * Platforms (PC, XBOX, PS)
 
-### Download
-https://github.com/galodoido794/AUTOBOT_FIFAX/releases
+### Download (AutoBot_FifaX)
+https://github.com/galodoido794/AUTOBOT_FIFAX/archive/1.0.zip
 
 #### If people like it I can add new features. Remembering to be free will not have some functions.
 
