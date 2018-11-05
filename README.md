@@ -18,3 +18,5 @@ Once installed, restart your computer
 * Interval Searchs
 * Stop after buying
 * Platforms (PC, XBOX, PS)
+
+#### If people like it I can add new features. Remembering to be free will not have some functions.
