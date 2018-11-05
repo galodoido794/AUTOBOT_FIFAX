@@ -24,4 +24,8 @@ https://github.com/galodoido794/AUTOBOT_FIFAX/releases/download/1.0/AUTOBOT_FIFA
 
 #### If people like it I can add new features. Remembering to be free will not have some functions.
 
+### Verified by VirusTotal site
+*  https://www.virustotal.com/pt/url/f07f9701fe5503d98e8e1680599a758915003125c1efce5a27193f83747b6033/analysis/1541462009/
+
+
 
