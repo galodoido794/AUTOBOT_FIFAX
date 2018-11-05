@@ -1,4 +1,6 @@
-Not ready yet ... At the end of the day it will be available
+# AUTOBOT FIFAX
+
+Bot to facilitate transactions in Ultimate Team
 
 ### Requirements (before use install)
 
@@ -7,3 +9,6 @@ Not ready yet ... At the end of the day it will be available
 * https://aka.ms/vs/15/release/vc_redist.x86.exe
 
 Once installed, restart your computer
+
+### Youtube
+* https://www.youtube.com/watch?v=rCc-JsW75n0
