@@ -12,3 +12,9 @@ Once installed, restart your computer
 
 ### Youtube
 * https://www.youtube.com/watch?v=rCc-JsW75n0
+
+### Features
+* Buy and sell (Players, Position Change, Chemistry Styles)
+* Interval Searchs
+* Stop after buying
+* Stop after buying
