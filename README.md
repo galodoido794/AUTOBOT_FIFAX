@@ -1,6 +1,6 @@
 # AUTOBOT FIFAX
 
-Bot to facilitate transactions in Ultimate Team
+Bot to facilitate transactions in Ultimate Team (Fifa 19)
 
 ### Requirements (before use install)
 
@@ -17,4 +17,4 @@ Once installed, restart your computer
 * Buy and sell (Players, Position Change, Chemistry Styles)
 * Interval Searchs
 * Stop after buying
-* Stop after buying
+* Platforms (PC, XBOX, PS)
