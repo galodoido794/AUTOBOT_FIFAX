@@ -21,6 +21,7 @@ https://github.com/galodoido794/AUTOBOT_FIFAX/releases/download/1.0/AUTOBOT_FIFA
 * Interval Searchs
 * Stop after buying
 * Platforms (PC, XBOX, PS)
+* Tested on Windows 10
 
 #### If people like it I can add new features. Remembering to be free will not have some functions.
 
