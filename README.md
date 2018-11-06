@@ -1,6 +1,6 @@
 # AUTOBOT FIFAX
 
-Bot to facilitate transactions in Ultimate Team (Fifa 19)
+Bot to facilitate transactions in Ultimate Team Totally Free (Fifa 19)
 
 ### Requirements (before use install)
 
