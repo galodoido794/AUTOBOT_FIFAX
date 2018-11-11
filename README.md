@@ -24,10 +24,4 @@ In case you want to send an email to galodoido794@gmail.com
 * Platforms (PC, XBOX, PS)
 * Tested on Windows 10
 
-#### If people like it I can add new features. Remembering to be free will not have some functions.
-
-### Verified by VirusTotal site
-*  https://www.virustotal.com/pt/url/1687d6a58d65399ccb9056cb0cdf92bc67dcb248fa16ced3954d1dc386029f77/analysis/1541552809/
-
-
 
