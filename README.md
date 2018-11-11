@@ -11,7 +11,7 @@ Bot to facilitate transactions in Ultimate Team.
 Once installed, restart your computer
 
 ### Download (AutoBot_FifaX)
-It will no longer be available to the public.
+It will no longer be available to the public. Those who got the previous versions will continue to work, but without new features.
 In case you want to send an email to galodoido794@gmail.com
 
 ### Youtube
