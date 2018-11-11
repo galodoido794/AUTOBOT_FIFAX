@@ -11,7 +11,8 @@ Bot to facilitate transactions in Ultimate Team Totally Free (Fifa 19)
 Once installed, restart your computer
 
 ### Download (AutoBot_FifaX)
-I'm not releasing the public any more.
+It will no longer be available to the public.
+In case you want to send an email to galodoido794@gmail.com
 
 ### Youtube
 * https://www.youtube.com/watch?v=rCc-JsW75n0
