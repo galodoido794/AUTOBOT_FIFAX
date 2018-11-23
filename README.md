@@ -11,11 +11,11 @@ Bot to facilitate transactions in Ultimate Team.
 Once installed, restart your computer
 
 ### Download (AutoBot_FifaX)
-It will no longer be available to the public. Those who got the previous versions will continue to work, but without new features.
-In case you want to send an email to galodoido794@gmail.com
+https://github.com/galodoido794/AUTOBOT_FIFAX/releases/download/1.8/AUTOBOT_FIFAX_v1_8.zip
 
 ### Youtube
 * https://www.youtube.com/watch?v=rCc-JsW75n0
+
 
 ### Features
 * Buy and sell (Players, Position Change, Chemistry Styles, Squad Fitness +30)
