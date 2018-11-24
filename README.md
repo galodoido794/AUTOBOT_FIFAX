@@ -12,7 +12,7 @@ Once installed, restart your computer
 
 
 ### Download (AutoBot_FifaX)
-https://github.com/galodoido794/AUTOBOT_FIFAX/releases/download/1.8/AUTOBOT_FIFAX_v1_8.zip
+https://github.com/galodoido794/AUTOBOT_FIFAX/releases/download/1.9/AUTOBOT_FIFAXv_1_9.7z
 
 
 ### Youtube
