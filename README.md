@@ -20,9 +20,7 @@ https://github.com/galodoido794/AUTOBOT_FIFAX/releases/download/1.9/AUTOBOT_FIFA
 
 
 ### Features
-* Buy and sell (Players, Position Change, Chemistry Styles, Squad Fitness +30)
-    * Players (BOT does not know how to differentiate TOTW and UCL. Only Gold with Special).
-    
+* Buy and sell (Players, Position Change, Chemistry Styles, Squad Fitness +30)   
 * Interval Searchs
 * Stop after buying
 * Platforms (PC, XBOX, PS)
