@@ -12,7 +12,7 @@ Once installed, restart your computer
 
 ### Help BOT
 With your help I can develop more features and create new BOTs (for other games): 
-https://www.patreon.com/galodoido
+* https://www.patreon.com/galodoido
 
 
 ### Download 
