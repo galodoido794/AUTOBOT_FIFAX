@@ -16,7 +16,7 @@ With your help I can develop more features and create new BOTs (for other games)
 
 
 ### Download 
-* https://github.com/galodoido794/AUTOBOT_FIFAX/releases/download/1.11/AUTOBOT_FIFAXv_1_11.7z
+* https://github.com/galodoido794/AUTOBOT_FIFAX/releases/download/1.12/AUTOBOT_FIFAXv_1_12.7z
 
 
 ### Youtube
