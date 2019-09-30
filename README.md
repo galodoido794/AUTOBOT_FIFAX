@@ -1,16 +1,10 @@
 # Working to make a new robot for Fifa2020
 
-# AUTOBOT FIFAX
+# FutAuto
+Works Platforms (PC, XBOX, PS4).
 
-Bot to facilitate transactions in Ultimate Team.
+APP to facilitate transactions in Ultimate Team (Fifa 2020).
 
-### Requirements (before use install)
-
-* https://www.microsoft.com/net/download/dotnet-framework-runtime/net471
-
-* https://aka.ms/vs/15/release/vc_redist.x86.exe
-
-Once installed, restart your computer
 
 ### Help BOT
 With your help I can develop more features and create new BOTs (for other games): 
@@ -18,18 +12,19 @@ With your help I can develop more features and create new BOTs (for other games)
 
 
 ### Download 
-* https://github.com/galodoido794/AUTOBOT_FIFAX/releases/download/1.12/AUTOBOT_FIFAXv_1_12.7z
+* Waiting GOOGLE PLAY (PUBLISH)
 
 
 ### Youtube
-* https://www.youtube.com/watch?v=rCc-JsW75n0
+* https://youtu.be/a3nJh2dHxm4
 
 
 ### Features
-* Buy and sell (Players, Position Change, Chemistry Styles, Squad Fitness +30)   
+* Buy and sell (Position Change, Chemistry Styles, Squad Fitness +30)   
 * Interval Searchs
 * Stop after buying
 * Platforms (PC, XBOX, PS)
-* Tested on Windows 10
+
+
 
 
