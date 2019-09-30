@@ -1,4 +1,4 @@
-# FutAuto (Ultimate Team - Fifa 2020)
+ (# FutAuto (Ultimate Team - Fifa 2020)
 Works Platforms (PC, XBOX, PS4).
 
 APP to facilitate transactions in Ultimate Team (Fifa 2020).
@@ -13,7 +13,7 @@ With your help I can develop more features and create new BOTs (for other games)
 * Waiting GOOGLE PLAY (PUBLISH)
 
 
-### Youtube
+### Youtube (private video - waiting publish)
 * https://youtu.be/a3nJh2dHxm4
 
 
