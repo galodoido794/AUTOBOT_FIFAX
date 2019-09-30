@@ -7,9 +7,7 @@ This page is used to inform visitors regarding my policies with the collection, 
 
 The application does not store people data.
 
-The app does use third party services that may collect information.
-
-Link to privacy policy of third party service providers used by the app
+The app does use third party services (Google Analitycs e Fut Web App EA) that may collect information.
 
 # Google Play Services
 ## Log Data
