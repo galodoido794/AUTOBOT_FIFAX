@@ -23,6 +23,6 @@ With your help I can develop more features and create new BOTs (for other games)
 * Stop after buying
 * Platforms (PC, XBOX, PS)
 
-
-
+### Privacy Policy
+* https://github.com/galodoido794/AUTOBOT_FIFAX/blob/master/policy_free.md
 
