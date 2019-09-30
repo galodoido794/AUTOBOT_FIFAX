@@ -1,4 +1,4 @@
- (# FutAuto (Ultimate Team - Fifa 2020)
+# FutAuto (Ultimate Team - Fifa 2020)
 Works Platforms (PC, XBOX, PS4).
 
 APP to facilitate transactions in Ultimate Team (Fifa 2020).
