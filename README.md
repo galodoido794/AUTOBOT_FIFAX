@@ -13,6 +13,7 @@ With your help I can develop more features and create new BOTs (for other games)
 * Waiting GOOGLE PLAY (PUBLISH)
 
 * BETA: https://github.com/galodoido794/AUTOBOT_FIFAX/releases/download/20.0.8/com.galodoido794.futauto.apk
+* If you don't have Android try running on an Android PC Emulator. Example: (Genymotion for fun), but there are others
 
 ### Youtube
 * https://youtu.be/a3nJh2dHxm4
