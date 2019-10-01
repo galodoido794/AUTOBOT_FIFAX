@@ -11,7 +11,7 @@ With your help I can develop more features and create new BOTs (for other games)
 
 ### Download 
 * Waiting GOOGLE PLAY (PUBLISH)
-
+* BETA: https://github.com/galodoido794/AUTOBOT_FIFAX/releases/download/20.0.8/com.galodoido794.futauto.apk
 
 ### Youtube (private video - waiting publish)
 * https://youtu.be/a3nJh2dHxm4
