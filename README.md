@@ -22,6 +22,12 @@ With your help I can develop more features and create new BOTs (for other games)
 ### Future Feature
 * Search Players
 
+### It´s Works?
+See the comments the previous version: https://www.youtube.com/watch?v=rCc-JsW75n0
+
+### Comments also on Github: 
+https://github.com/galodoido794/AUTOBOT_FIFAX/issues?q=is%3Aissue+is%3Aclosed
+
 ### Privacy Policy
 * https://github.com/galodoido794/AUTOBOT_FIFAX/blob/master/policy_free.md
 
