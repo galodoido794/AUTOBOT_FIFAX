@@ -12,7 +12,7 @@ See the comments the previous version: https://www.youtube.com/watch?v=rCc-JsW75
 ### Comments also on Github: 
 https://github.com/galodoido794/AUTOBOT_FIFAX/issues?q=is%3Aissue+is%3Aclosed
 
-### Youtube (FutAUTO)
+### Youtube (FutAUTO - Fifa2020)
 * https://youtu.be/a3nJh2dHxm4
 
 ### Features
