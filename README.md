@@ -15,12 +15,10 @@ With your help I can develop more features and create new BOTs (for other games)
 
 ### Features
 * Buy and sell (Position Change, Chemistry Styles, Squad Fitness +30)   
+* Search Players (BETA)
 * Interval Searchs
 * Stop after buying
 * Platforms (PC, XBOX, PS)
-
-### Future Feature
-* Search Players
 
 ### It´s Works?
 See the comments the previous version: https://www.youtube.com/watch?v=rCc-JsW75n0
