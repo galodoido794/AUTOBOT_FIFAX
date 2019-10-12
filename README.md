@@ -3,7 +3,7 @@ Works Platforms (PC, XBOX, PS4).
 
 APP to facilitate transactions in Ultimate Team (Fifa 2020).
 
-### Download 
+### Download (Android)
 * https://play.google.com/store/apps/details?id=com.galodoido794.futauto
 
 ### It´s Works?
