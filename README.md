@@ -6,6 +6,9 @@ APP to facilitate transactions in Ultimate Team (Fifa 2020).
 ### Download (Android)
 * https://play.google.com/store/apps/details?id=com.galodoido794.futauto
 
+### Run Windows
+* https://autobotfifax.blogspot.com/2019/10/run-futauto-with-emulator-android.html
+
 ### It´s Works?
 See the comments the previous version: https://www.youtube.com/watch?v=rCc-JsW75n0
 
