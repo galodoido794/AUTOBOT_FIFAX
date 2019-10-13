@@ -16,7 +16,7 @@ APP to facilitate transactions in Ultimate Team (Fifa 2020).
 See the comments the previous version: https://www.youtube.com/watch?v=rCc-JsW75n0
 
 ### Comments also on Github: 
-https://github.com/galodoido794/AUTOBOT_FIFAX/issues?q=is%3Aissue+is%3Aclosed
+* https://github.com/galodoido794/AUTOBOT_FIFAX/issues?q=is%3Aissue+is%3Aclosed
 
 ### Features
 * Buy and sell (Position Change, Chemistry Styles, Squad Fitness +30)   
