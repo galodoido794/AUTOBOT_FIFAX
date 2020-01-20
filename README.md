@@ -23,7 +23,7 @@ APP to facilitate transactions in Ultimate Team (Fifa 2020).
 See the comments the previous version: https://www.youtube.com/watch?v=rCc-JsW75n0
 
 ### How to buy a player?
-https://autobotfifax.blogspot.com/2019/10/how-to-buy-player-with-futauto.html
+* https://autobotfifax.blogspot.com/2019/10/how-to-buy-player-with-futauto.html
 
 ### Comments also on Github: 
 * https://github.com/galodoido794/AUTOBOT_FIFAX/issues?q=is%3Aissue+is%3Aclosed
