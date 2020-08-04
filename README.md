@@ -3,7 +3,7 @@ Works Platforms (PC, XBOX, PS4).
 
 APP to facilitate transactions in Ultimate Team (Fifa 2020).
 
-# Because of Covid19 I'm months without updating the program, HOWEVER I'm coming back at the end of the month already thinking about FIFA 2021
+# Because of Covid19 I'm months without updating the program, HOWEVER I'm coming back at the end of the month (August 2020) already thinking about FIFA 2021
 
 ### Download (Android)
 * https://play.google.com/store/apps/details?id=com.galodoido794.futauto
