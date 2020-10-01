@@ -1,9 +1,9 @@
 # FutAuto (FIFA SNIPING BOT) - Totally free
 Works Platforms (PC, XBOX, PS4).
 
-APP to facilitate transactions in Ultimate Team (Fifa 2020).
+APP to facilitate transactions in Ultimate Team (Fifa 2021).
 
-# Because of Covid19 I'm months without updating the FutAUTO, HOWEVER I'm coming back at the end of the month (Setember 2020) already thinking about FIFA 2021
+# FIFA 2021 As I do not have early access I will try to upload the first version on October 12th
 
 ### Download (Android)
 * Wait for version 2021
