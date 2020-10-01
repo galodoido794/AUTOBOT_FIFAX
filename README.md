@@ -5,6 +5,9 @@ APP to facilitate transactions in Ultimate Team (Fifa 2021).
 
 # FIFA 2021 As I do not have early access I will try to upload the first version on October 12th
 
+### I'm accepting suggestions
+* https://bit.ly/30nM2Ol
+
 ### Download (Android)
 * Wait for version 2021
 
