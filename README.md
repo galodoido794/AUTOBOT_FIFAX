@@ -40,3 +40,6 @@ With your help I can develop more features and create new BOTs (for other games)
 ### Privacy Policy
 * https://github.com/galodoido794/AUTOBOT_FIFAX/blob/master/policy_free.md
 
+### Contact
+* galodoido794@gmail.com
+
