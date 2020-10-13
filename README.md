@@ -3,7 +3,7 @@ Works Platforms (PC, XBOX, PS4).
 
 APP to facilitate transactions in Ultimate Team (Fifa 2021).
 
-# FIFA 2021 As I do not have early access I will try to upload the first version on October 12th
+# FIFA 2021 As I do not have early access I will try to upload the first version on October 17th
 
 ### I'm accepting suggestions
 * https://bit.ly/30nM2Ol
