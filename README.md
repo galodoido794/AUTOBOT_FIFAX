@@ -1,3 +1,3 @@
-# FutAuto (FIFA SNIPING BOT) - Totally free
+# FutAuto (FIFA21)
 ### New site at
 * https://github.com/galodoido794/FutAUTO
